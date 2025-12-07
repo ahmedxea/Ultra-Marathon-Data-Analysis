@@ -17,7 +17,7 @@ The dataset used in this project was sourced from [Kaggle: The Big Dataset of Ul
 ## Key Features of the Project
 
 1. **Data Importing and Preparation**:
-   - Load the dataset and prepare it for analysis by handling missing values and duplicate records.
+   - Load the dataset and prepare it for analysis by handling missing values and duplicates.
 
 2. **Exploratory Data Analysis**:
    - Provide summary statistics and visual insights into the data.
