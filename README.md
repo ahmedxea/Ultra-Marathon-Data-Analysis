@@ -1,4 +1,4 @@
-# Ultra Marathon Race Data Analysis 🏃‍♂️
+# Ultra Marathon Race Data Analysis
 
 This beginner's project focuses on exploring and analyzing a dataset of ultra marathon races using Python and its libraries like Pandas, Seaborn, and Matplotlib. After running a marathon myself, I got inspired to dig deeper into race data and decided to embark on this project. The aim is to practice data analysis and visualization techniques while gaining insights into race and athlete performance. 📊
 
